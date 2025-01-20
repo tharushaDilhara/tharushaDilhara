@@ -5,9 +5,9 @@
 | ![Tharusha's github stats](https://github-readme-stats.vercel.app/api?username=tharushaDilhara&show_icons=true&theme=tokyonight) | !
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharushaDilhara&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tharushaDilhara&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushadilhara&label=Profile%20views&color=0e75b6&style=flat" alt="tharushadilhara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharushaDilhara&label=Profile%20views&color=0e75b6&style=flat" alt="tharushadilhara" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharushadilhara" alt="tharushadilhara" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharushaDilhara" alt="tharushadilhara" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <a target="_blank" align="center">
